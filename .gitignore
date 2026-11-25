@@ -1,0 +1,11 @@
+.env
+.env.*
+node_modules/
+__pycache__/
+.venv/
+.DS_Store
+.vscode/
+.idea/
+
+/docs/00_source/*
+!/docs/00_source/README.md
